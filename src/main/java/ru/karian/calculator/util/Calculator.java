@@ -10,7 +10,6 @@ public class Calculator {
     }
 
     public static int calculateProduct(int a, int b) {
-
         return a * b;
     }
 }
